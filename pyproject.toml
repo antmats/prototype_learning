@@ -8,6 +8,8 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.9"
+torch = "1.11.0"
+conda-lock = "^1.0.5"
 
 [tool.poetry.dev-dependencies]
 
