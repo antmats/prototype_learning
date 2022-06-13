@@ -10,7 +10,7 @@ readme = "README.md"
 python = "^3.9"
 torch = "1.11.0"
 conda-lock = "^1.0.5"
-numpy = "^1.22.4"
+numpy = "1.20.3"
 skorch = "^0.11.0"
 scikit-learn = "^1.1.1"
 
